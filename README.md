@@ -1,4 +1,3 @@
 # rayshavthind
-My Personal Website
 
-Hello, this is my first commit to GitHub. Just want to make sure everything is working before I begin my stuff.
+This website is going to represent my capabilities in whatever coding language I can comprehend and understand lol. Feel free to check back once in a while to see what nonsense I put up here haha. 
